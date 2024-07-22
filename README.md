@@ -26,7 +26,8 @@ Test and improve your reaction
 * Using the cmd might be good. But I want you download Bash and use it on this case.
 * Type git clone https://github.com/locotami/ReactionSpeed
 * Now I want you to make sure that Node.js is installed so copy and paste this npm install -g http-server
-* Type http-server to start the server on your directory
+* Type http-server to start the server on your directory (I forgot, I haven't finished the scoreplot yet so this would be nonsense. Ignore this for now)
+
 
 # Note: Not Yet Complied
 
