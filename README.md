@@ -52,7 +52,7 @@ You have to consider two things for the scoring system
 
 # Score Plot (Not yet Finished)
 
-I haven't finished the javascript file for this one, although you can run it already, I want it to open the leaderboard once the game was finished.
+I haven't finished the javascript file for this one, although you can run it already, I want it to open the leaderboard once the game was finished. I forgot also to add the css file
 
 
 
