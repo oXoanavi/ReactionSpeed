@@ -42,7 +42,7 @@ Assuming that you have started it on vs code already. The mechanics of the game 
 * s if arrow is pointing down
 * a if arrow is pointing left
 
-Which means that you have to first point at the circle (NOT THE ARROW) and start pressing the wasd keys or else the game will end.
+Which means that you have to first point at the circle (NOT THE ARROW) and start pressing the wasd keys or else the game will end (it has a limit of 2 secs so you must be fast).
 
 # Scoring System
 
