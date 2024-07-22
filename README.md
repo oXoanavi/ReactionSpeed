@@ -2,7 +2,7 @@
 
 # Reaction Speed
 
-Test an improve your reaction
+Test and improve your reaction
   
 </div>
 
@@ -28,10 +28,31 @@ Test an improve your reaction
 * Now I want you to make sure that Node.js is installed so copy and paste this npm install -g http-server
 * Type http-server to start the server on your directory
 
-# Tutorial
+# Note: Not Yet Complied
 
+I haven't compiled the app into a .exe file yet so starting would be a bit too troublesome. What I want you to do instead is to just run the app on vs code.
 
+# Gameplay Tutorial
 
+Assuming that you have started it on vs code already. The mechanics of the game might be confusing but it's not that hard once played. I referenced the game OSU for this so you have to consider two factors.
+
+* Pointing the mouse cursor then pressing wasd keys
+* w if arrow is pointing up
+* d if arrow is pointing right
+* s if arrow is pointing down
+* a if arrow is pointing left
+
+Which means that you have to first point at the circle (NOT THE ARROW) and start pressing the wasd keys or else the game will end.
+
+# Scoring System
+
+You have to consider two things for the scoring system
+* Reaction Speed (depending on how fast you pressed the right key in milliseconds)
+* Accuracy (Depending on how accurate you pointed at the midpoint of the circle)
+
+# Score Plot (Not yet Finished)
+
+I haven't finished the javascript file for this one, although you can run it already, I want it to open the leaderboard once the game was finished.
 
 
 
