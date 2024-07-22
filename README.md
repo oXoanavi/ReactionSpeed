@@ -34,7 +34,7 @@ I haven't compiled the app into a .exe file yet so starting would be a bit too t
 
 # Gameplay Tutorial
 
-Assuming that you have started it on vs code already. The mechanics of the game might be confusing but it's not that hard once played. I referenced the game OSU for this so you have to consider two factors.
+Assuming that you have started it on vs code already. The mechanics of the game might be confusing but it's not that hard once played. I referenced the game OSU for this so you have to consider this factors.
 
 * Pointing the mouse cursor then pressing wasd keys
 * w if arrow is pointing up
