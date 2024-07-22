@@ -20,7 +20,17 @@ Test an improve your reaction
 
 </div>
 
-<div align="center">
+
+
+# Installation
+* Using the cmd might be good. But I want you download Bash and use it on this case.
+* Type git clone https://github.com/locotami/ReactionSpeed
+* Now I want you to make sure that Node.js is installed so copy and paste this npm install -g http-server
+* Type http-server to start the server on your directory
+
+# Tutorial
+
+
 
 
 
