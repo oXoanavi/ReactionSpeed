@@ -22,7 +22,7 @@ Test and improve your reaction
 
 
 
-# Installation
+## Installation
 * Download the repo via zip file.
 * Extract the zip file.
 * Now go to your folder, run the cmd on that folder (make sure that the cmd is in the directory of the file).
@@ -30,11 +30,11 @@ Test and improve your reaction
 * Type http-server to start the server on your directory (I forgot, I haven't finished the scoreplot yet so this would be nonsense. Ignore this for now)
 
 
-# Note: Not Yet Complied
+## Note: Not Yet Complied
 
 I haven't compiled the app into a .exe file yet so starting would be a bit too troublesome. What I want you to do instead is to just run the app on vs code.
 
-# Gameplay Tutorial
+## Gameplay Tutorial
 
 Assuming that you have started it on vs code already. The mechanics of the game might be confusing but it's not that hard once played. I referenced the game OSU for this so you have to consider this factors.
 
@@ -46,15 +46,20 @@ Assuming that you have started it on vs code already. The mechanics of the game 
 
 Which means that you have to first point at the circle (NOT THE ARROW) and start pressing the wasd keys or else the game will end (it has a limit of 2 secs so you must be fast).
 
-# Scoring System
+## Scoring System
 
 You have to consider two things for the scoring system
 * Reaction Speed (depending on how fast you pressed the right key in milliseconds)
 * Accuracy (Depending on how accurate you pointed at the midpoint of the circle)
 
-# Score Plot (Not yet Finished)
+## Score Plot (Not yet Finished)
 
 I haven't finished the javascript file for this one, although you can run it already, I want it to open the leaderboard once the game was finished. I forgot also to add the css file
+
+## Gameplay Demo (I ain't using my mouse I ain't this slow with a mouse xD)
+
+https://github.com/user-attachments/assets/d67fc9cd-5817-4dab-8454-3a1890469d54
+
 
 
 
