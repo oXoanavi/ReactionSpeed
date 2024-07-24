@@ -52,9 +52,14 @@ You have to consider two things for the scoring system
 * Reaction Speed (depending on how fast you pressed the right key in milliseconds)
 * Accuracy (Depending on how accurate you pointed at the midpoint of the circle)
 
-## Score Plot (Not yet Finished)
+## Score Plot 
 
-I haven't finished the javascript file for this one, although you can run it already, I want it to open the leaderboard once the game was finished. I forgot also to add the css file
+Hello 👋. The score plot was replaced by Matplotlib instead of using Javascript. It shows right after the game was finished.
+
+-(oXoNavi 🧏‍♀️)
+
+![image width](https://github.com/user-attachments/assets/356d9938-5847-4e85-a0b0-2f06e6509a21)
+
 
 ## Gameplay Demo (I ain't using my mouse I ain't this slow with a mouse xD)
 
