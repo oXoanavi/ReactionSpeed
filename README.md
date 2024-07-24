@@ -54,12 +54,9 @@ You have to consider two things for the scoring system
 
 ## Score Plot 
 
-Hello 👋. The score plot was replaced by Matplotlib instead of using Javascript. It shows right after the game was finished.
+The score plot now works by replacing Javascript with Matplotlib.
 
--(oXoNavi 🧏‍♀️)
-
-![image width](https://github.com/user-attachments/assets/356d9938-5847-4e85-a0b0-2f06e6509a21)
-
+![image](https://github.com/user-attachments/assets/f3dee763-7b89-4dd7-8b49-f50bbdd2c2a4)
 
 ## Gameplay Demo (I ain't using my mouse I ain't this slow with a mouse xD)
 
