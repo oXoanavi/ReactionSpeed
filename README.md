@@ -54,7 +54,10 @@ You have to consider two things for the scoring system
 
 ## Score Plot (Not yet Finished)
 
-I haven't finished the javascript file for this one, although you can run it already, I want it to open the leaderboard once the game was finished. I forgot also to add the css file
+The score plot now works by replacing Javascript with Matplotlib.
+
+![image](https://github.com/user-attachments/assets/f3dee763-7b89-4dd7-8b49-f50bbdd2c2a4)
+
 
 ## Gameplay Demo (I ain't using my mouse I ain't this slow with a mouse xD)
 
